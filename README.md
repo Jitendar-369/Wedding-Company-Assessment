@@ -3,7 +3,7 @@
 A pixel-perfect, interactive quiz application built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Live Demo
-[Insert Deployment Link Here]
+[https://wedding-company-assessment.vercel.app/](https://wedding-company-assessment.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Framework**: Next.js 16 (App Router)
